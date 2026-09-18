@@ -1,4 +1,5 @@
 import Greeting from './components/Greeting'
+import Footer from './components/Footer'
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <main>
         <Greeting />
       </main>
+      <Footer />
     </>
   )
 }
